@@ -22,7 +22,8 @@ L'objectif principal est d'apprendre à interagir avec des API, manipuler les do
     - Gestion du CORS pour des accès sécurisés.
 
 
-  - **Exemple de requête** :
+![API-JSON](https://github.com/Sweetyamnesia/Protocole-HTTP/blob/main/API-JSON.jpg?raw=true)
+
 
 
 ### 2. Le projet Chuck Norris :
@@ -33,11 +34,9 @@ L'objectif principal est d'apprendre à interagir avec des API, manipuler les do
     c. Automatiser la récupération des catégories au démarrage.
     d. Utiliser async/Await avec try/catch pour une meilleure gestion des erreurs.
 
+![Projet-chuck-norris](https://github.com/Sweetyamnesia/Protocole-HTTP/blob/main/Projet-chuck-norris-ezgif.com-video-to-gif-converter.gif?raw=true) 
 
-**Exemple de code** : 
 
-
-# Démo : 
 
 
 
